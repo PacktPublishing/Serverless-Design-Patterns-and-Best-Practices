@@ -50,3 +50,7 @@ We will learn how to use these tools through the course of this book
 * [Rust High Performance](https://www.packtpub.com/application-development/rust-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781788399487)
 
 * [Serverless Programming Solutions [Video]](https://www.packtpub.com/application-development/serverless-programming-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781788622325)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788620642">https://packt.link/free-ebook/9781788620642 </a> </p>
